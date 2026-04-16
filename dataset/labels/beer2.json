@@ -3,7 +3,7 @@
   "flags": {},
   "shapes": [
     {
-      "label": "iris",
+      "label": "pupil",
       "points": [
         [
           299.96306068601587,
@@ -65,7 +65,7 @@
       "mask": null
     },
     {
-      "label": "pupil",
+      "label": "iris",
       "points": [
         [
           342.9709762532982,
