@@ -14,7 +14,6 @@ CLASS_MAP={
     "pupiil":1,
     "iris": 2,
     "sclera": 3,
-    "skin": 4,
 
 }
 #wyzanaczam bounding box z punktów wielokąta
