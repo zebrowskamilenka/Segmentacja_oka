@@ -1,0 +1,8 @@
+path: C:/Users/Amelia/source/repos/Segmentacja_oka/dataset
+train: train/images
+val: val/images
+
+names: 
+  0: pupil
+  1: iris
+  2: sclera

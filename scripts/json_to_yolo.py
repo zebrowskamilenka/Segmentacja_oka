@@ -10,10 +10,10 @@ os.makedirs(YOLO_DIR, exist_ok=True)
 
 #Mapowanie klas
 CLASS_MAP={
-    "pupil": 1,
-    "pupiil":1,
-    "iris": 2,
-    "sclera": 3,
+    "pupil": 0,
+    "pupiil":0,
+    "iris": 1,
+    "sclera": 2,
 
 }
 #wyzanaczam bounding box z punktów wielokąta
