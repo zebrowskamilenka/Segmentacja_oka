@@ -1,4 +1,4 @@
-path: C:/Users/Amelia/source/repos/Segmentacja_oka/dataset
+path: ./dataset
 train: train/images
 val: val/images
 
